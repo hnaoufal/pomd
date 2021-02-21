@@ -29,7 +29,7 @@
   "author": "Tiaan <tiaanduplessis@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^8.0.1",
     "piggy-bank": "^1.0.0",
     "timrjs": "^1.0.1",
     "update-notifier": "^2.2.0",
